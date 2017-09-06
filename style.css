@@ -22,12 +22,21 @@ body {
 }
 
 .text-box {
-  margin: 0px auto;
+  margin: 10px auto;
   width: 40%;
+
 }
 
 p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+}
+
+span {
+  margin-left: 10px;
+  color: #fff;
+  background: #2AABE2;
+  float: right;
+  padding: 10px 20px;
 }
